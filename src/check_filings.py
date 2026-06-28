@@ -29,6 +29,7 @@ TRACKED_NAMES = [
     "Jeremy Stoppelman",
     "Emmett Shear",
     "Jessica Livingston",
+    "Neil Mehta",
 ]
 
 TRACKED_ORGS = [
